@@ -1,0 +1,35 @@
+.ContactForm{
+  margin-left: 20%;
+  margin-right: 5%;
+}
+.ContactFormFlex{
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+input{
+  padding: 13px 0px;
+  border: none;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  width: 70%;
+  outline: none;
+  margin-bottom: 50px;
+  font-size: 18px;
+
+}
+#submit{
+  border: 1px solid white;
+  width: 15%;
+  margin-left: 27%;
+  transition: all 1000ms linear;
+}
+input:focus{
+  border: none;
+  border-bottom: 1px solid #71eaa8;
+}
+#submit:hover{
+  color: black;
+  border: 1px solid black;
+  background-color: #71eaa8;
+}

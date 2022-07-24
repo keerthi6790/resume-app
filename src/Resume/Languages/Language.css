@@ -1,0 +1,27 @@
+.Language{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.round{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255,0.5);
+}
+.filled{
+    background-color: #71eaa8;
+}
+.languageFlex{
+    display: flex;
+    gap: 20px;
+}
+.wholeFlex div .title{
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+.wholeFlex{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}

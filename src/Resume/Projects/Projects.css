@@ -1,0 +1,8 @@
+.Projects{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.projectsFlex{
+    display: flex;
+}

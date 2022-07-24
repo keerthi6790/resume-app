@@ -1,0 +1,19 @@
+.cards{
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.id{
+    padding: 7px 14px;
+    border: 2px solid #71eaa8;
+    border-radius: 50%;
+    margin-right: 20px;
+    color: #71eaa8;
+}
+a{
+    text-decoration: none;
+}
+a div{
+    font-size: 18px;
+}

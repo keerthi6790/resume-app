@@ -1,0 +1,36 @@
+.Skills{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.SkillsFlex{
+    margin-left: 50px;
+}
+/* 71eaa8 */
+.Skills h1{
+    opacity: 0.8;
+    margin-bottom: 5%;
+}
+.skillSet{
+    margin-bottom: 5%;
+}
+.progress{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 5px;
+    border-radius: 5px;
+}
+.innerProgress{
+    position: relative;
+    width: 80%;
+    height: 5px;
+    opacity: 1;
+    background-color: #71eaa8;
+}
+.skillFlex{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-bottom: 5px;
+    opacity: 0.8;
+}
